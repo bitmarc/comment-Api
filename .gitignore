@@ -1,0 +1,10 @@
+# Created by https://www.toptal.com/developers/gitignore/api/serverless
+# Edit at https://www.toptal.com/developers/gitignore?templates=serverless
+
+### Serverless ###
+# Ignore build directory
+.serverless
+p_06_05_21/*
+script1.py
+
+# End of https://www.toptal.com/developers/gitignore/api/serverless
